@@ -5,7 +5,7 @@ export default function Edit_form() {
 
     <input className="border border-slate-500 px-8 py-2" type="text" placeholder="description"/>
 
-    <button className="bg-green font-bold text-white py-3 px-6 w-fit">Update</button>
+    <button className="bg-green-500 font-bold text-white py-3 px-6">Update</button>
     
 </form>;
 }

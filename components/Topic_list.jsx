@@ -13,7 +13,7 @@ export default function Topiclist() {
         
         <div className="fflex gap-2 ">
             <Remove_button />
-            <Link href={'/Edit_form'}>
+            <Link href={'/edit'}>
                 <HiPencilAlt size={24} />
             </Link>
         </div>
