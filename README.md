@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a CRUD (Create, Read, Update, Delete) application built using Next.js and MongoDB. It allows users to manage data entries with a user-friendly interface. <br> 
+This is a CRUD (Create, Read, Update, Delete) application built using Next.js and MongoDB. It allows users to manage data entries with a user-friendly interface.
+<br> 
 ![image](https://github.com/user-attachments/assets/7d475f46-81e4-478a-843e-38d8ec13a4e1)
 
 
