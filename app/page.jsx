@@ -1,10 +1,5 @@
-import Topiclist from "@/components/Topic_list"
+import TopicsList from "@/components/TopicsList";
+
 export default function Home() {
-  return (
-    <>
-    <Topiclist />
-    <Topiclist />
-    <Topiclist />
-    </>
-  );
+  return <TopicsList />;
 }
