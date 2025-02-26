@@ -37,7 +37,7 @@ export default function Navbar() {
             href="/addTopic" 
             className="bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-500 transition-all duration-300 transform hover:scale-105 shadow-sm"
           >
-            + Create New
+            + Create
           </Link>
         </div>
       </div>
